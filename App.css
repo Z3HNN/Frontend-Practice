@@ -39,7 +39,7 @@ body{
 
 .header-text{
     font-size: 75px;
-    box-shadow: 8px 8px 8px ;
+    color: rgb(20, 20, 20);
 }
 
 @media (max-width: 1306px) {
