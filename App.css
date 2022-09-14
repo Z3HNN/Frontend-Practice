@@ -39,16 +39,28 @@ body{
 
 .header-text{
     font-size: 75px;
+    box-shadow: 8px 8px 8px ;
 }
 
 @media (max-width: 1306px) {
     .header-text{
         font-size: 50px;
     }
+
+    .home{
+        margin-top: 8px;
+        margin-right: 8px;
+        width: 50px;
+    }
 }
 
 @media (max-width: 960px) {
     .header-text{
-        font-size: 50px;
+        font-size: 35px;
+        
     }
+    .home_link{
+        margin-right: 0%;
+    }
+    
 }
