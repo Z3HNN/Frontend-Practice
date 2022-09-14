@@ -5,8 +5,37 @@
     font-family: 'Kanit', sans-serif;
 }
 
-/* HEADER */
+body{
+    background: rgb(214, 213, 213);
+}
 
+/* HEADER */
+.page-banner{
+    content: "";
+    background: rgb(126, 126, 129); 
+    box-shadow: 8px 8px 8px ;
+}
+
+.header-container{
+    content: "";
+    padding-left: 36px;
+    max-width: 1400px;
+    display: flex;
+    align-items: center;
+
+}
+.road{
+    width: 160px;
+}
+
+.home_link{
+    margin-right: 50%;
+}
+
+.home{
+    margin-top: 16px;
+    width: 60px;
+}
 
 .header-text{
     font-size: 75px;
