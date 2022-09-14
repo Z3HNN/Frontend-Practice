@@ -40,3 +40,15 @@ body{
 .header-text{
     font-size: 75px;
 }
+
+@media (max-width: 1306px) {
+    .header-text{
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 960px) {
+    .header-text{
+        font-size: 50px;
+    }
+}
